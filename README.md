@@ -6,4 +6,6 @@ The hard part was how to rotate all the images in a circle in such a way. It was
 
 The header file (Battle Awaits) was also bit tricky. I used ::after and stored my contents in 'data-' which made it easy for me to make it transparent.
 
+!!View this in Desktop or Desktop mode!! Didn't make it responsive cause I was too lazy.
+
 Thank you for reading!!!
