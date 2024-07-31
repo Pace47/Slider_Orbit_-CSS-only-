@@ -80,7 +80,7 @@ footer{
     font-size: 100px;
     position: absolute;
     bottom: 0;
-    left: calc(50% - 350px);
+    left: calc(50% - 275px);
     font-family:'New Rocker';
 }
 .banner .arc h1::after{
